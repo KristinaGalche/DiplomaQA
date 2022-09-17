@@ -3,9 +3,9 @@
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
 ## Документы
-* [Как правильно работать над дипломом?](https://github.com/KristinaGalche/DiplomaQA/blob/master/docs/zadanie.md)
-* [Описание приложения](https://github.com/KristinaGalche/DiplomaQA/blob/master/docs/description.md)
-* [Перечень автоматизируемых сценариев](https://github.com/KristinaGalche/DiplomaQA/blob/master/docs/Plan.md)
+* [Как правильно работать над дипломом?](https://github.com/KristinaGalche/DiplomaQA/blob/master/Files/zadanie.md)
+* [Описание приложения](https://github.com/KristinaGalche/DiplomaQA/blob/master/Files/description.md)
+* [Перечень автоматизируемых сценариев](https://github.com/KristinaGalche/DiplomaQA/blob/master/Files/Plan.md)
 * [Отчет по итогам тестирования]
 * [Отчет по итогам автоматизированного тестирования]
 
