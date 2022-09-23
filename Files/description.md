@@ -4,7 +4,7 @@
 
 Приложение представляет из себя веб-сервис.
 
-![](https://github.com/KristinaGalche/DiplomaQA/blob/master/pic/service.png)
+![](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/pic/service.png)
 
 Приложение предлагает купить тур по определённой цене с помощью двух способов:
 1. Обычная оплата по дебетовой карте
