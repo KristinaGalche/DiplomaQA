@@ -6,8 +6,8 @@
 * [Как правильно работать над дипломом?](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/zadanie.md)
 * [Описание приложения](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/description.md)
 * [Перечень автоматизируемых сценариев](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/Plan.md)
-* [Отчет по итогам тестирования]
-* [Отчет по итогам автоматизированного тестирования]
+* [Отчет по итогам тестирования](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/report.md)
+* [Отчет по итогам автоматизированного тестирования](https://github.com/KristinaGalche/DiplomaQA/blob/master/files/summary.md)
 
 ## На локальном компьютере заранее должны быть установлены:
 
